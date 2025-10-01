@@ -13,3 +13,4 @@ web-build/
 .env
 .env.local
 firebase.config.js
+package-lock.json
