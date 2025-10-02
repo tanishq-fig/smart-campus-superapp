@@ -41,14 +41,6 @@ React Native + Expo + Firebase
 - **UI Components**: Custom components with Expo Linear Gradient & Blur
 - **Icons**: Expo Vector Icons
 
-## 🛠️ Setup Instructions
-
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-- Expo CLI
-- iOS Simulator (for Mac) or Android Studio (for Android development)
 
 ## 📂 Project Structure
 
