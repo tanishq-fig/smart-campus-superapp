@@ -1,3 +1,6 @@
+The project is WIP, solving some errors right now **On hold right now**
+
+
 # 🎓 Smart Campus SuperApp
 
 **Advanced Campus Management System**  
@@ -46,46 +49,6 @@ React Native + Expo + Firebase
 - npm or yarn
 - Expo CLI
 - iOS Simulator (for Mac) or Android Studio (for Android development)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/tanishq-fig/smart-campus-superapp.git
-   cd smart-campus-superapp
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Configure Firebase**
-   
-   Create a `.env` file in the root directory:
-   ```bash
-   cp .env.example .env
-   ```
-   
-   Add your Firebase configuration to `.env`:
-   ```
-   FIREBASE_API_KEY=your_api_key_here
-   FIREBASE_AUTH_DOMAIN=your_auth_domain_here
-   FIREBASE_PROJECT_ID=your_project_id_here
-   FIREBASE_STORAGE_BUCKET=your_storage_bucket_here
-   FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id_here
-   FIREBASE_APP_ID=your_app_id_here
-   ```
-
-4. **Start the development server**
-   ```bash
-   npm start
-   ```
-
-5. **Run on your device**
-   - **iOS**: Press `i` in the terminal or scan QR code with Expo Go app
-   - **Android**: Press `a` in the terminal or scan QR code with Expo Go app
-   - **Web**: Press `w` in the terminal
 
 ## 📂 Project Structure
 
@@ -255,3 +218,5 @@ Built with ❤️ by Tanishq
 ---
 
 **Status**: ✅ Complete Implementation with Firebase, Navigation, Auth, Dashboards, and All Modules
+
+The project is WIP, solving some errors right now **On hold right now**
