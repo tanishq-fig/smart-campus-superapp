@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Smart Campus SuperApp</Text>
-    </View>
+    </View> 
   );
 }
 
